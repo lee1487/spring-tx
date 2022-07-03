@@ -141,4 +141,13 @@ public class BasicTxTest {
         txManager.commit(outer); // 커밋
     }
 
+    //스프링 트랜잭션 옵션
+    //REQUIRED
+    //REQUIRES_NEW
+    //SUPPORT
+    //NOT_SUPPORT
+    //MANDATORY
+    //NEVER
+    //NESTED
+
 }
